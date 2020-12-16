@@ -1,0 +1,26 @@
+{
+  "name": "nodemongoexpress-first",
+  "version": "1.0.0",
+  "description": "creating a test app with node mongo and express to get user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indisaurusrex/nodeMongoExpress-first.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "India",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indisaurusrex/nodeMongoExpress-first/issues"
+  },
+  "homepage": "https://github.com/indisaurusrex/nodeMongoExpress-first#readme",
+  "dependencies": {
+    "node": "^15.4.0"
+  }
+}
